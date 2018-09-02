@@ -32,5 +32,8 @@
 	<view class="list">
 		<template is="cooks" data="{{array}}"></template>
 	</view>
+	<view class="list">
+		<template is="cooks" data="{{array}}"></template>
+	</view> 
 
 </view>
